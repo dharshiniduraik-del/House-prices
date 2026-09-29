@@ -28,7 +28,7 @@ The models are evaluated using different performance metrics such as Accuracy, P
 
 ## Technologies Used
 
-- Python 🐍
+- Python 
 - Pandas
 - Scikit-learn
 - Matplotlib
